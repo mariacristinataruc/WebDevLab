@@ -1,2 +1,2 @@
-# WebDevLab
-Lab Act
+# Act1_WebDev
+Lab Activity
