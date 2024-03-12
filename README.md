@@ -1,2 +1,2 @@
-# Act1_WebDev
-Lab Activity
+# Act1_LAB_WebDev
+WEB HTML Activity 
